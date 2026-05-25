@@ -17,7 +17,13 @@ export default function AbigailsHub() {
 
             <div className="flex flex-wrap gap-4">
               <button className="bg-blue-600 hover:bg-blue-500 transition px-6 py-3 rounded-2xl font-semibold shadow-xl">
-                Shop Soon
+                <a
+  href="https://a.co/d/0805vX2F"
+  target="_blank"
+  className="bg-blue-600 hover:bg-blue-500 transition px-6 py-3 rounded-2xl font-semibold shadow-xl inline-block"
+>
+  Buy on Amazon
+</a>
               </button>
               <button className="border border-purple-500 hover:bg-purple-600/20 transition px-6 py-3 rounded-2xl font-semibold">
                 Learn More
